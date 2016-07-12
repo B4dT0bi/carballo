@@ -2,7 +2,7 @@ archivesBaseName = 'carballo-jse'
 
 buildscript {
     repositories {
-        mavenCentral()
+        jcenter()
     }
 
     dependencies {
